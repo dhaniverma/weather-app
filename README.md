@@ -1,4 +1,4 @@
-# whether-app
+# weather-app
 
 # 🌤️ Weather App
 
