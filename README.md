@@ -18,7 +18,7 @@ Just enter a city name and instantly get live temperature, humidity, and more us
 
 (https://drive.google.com/file/d/1pS0fwgPaUg8vQLwJ6rk0EzoUrXvrgpTh/view?usp=sharing)g)
 
-##LINK TO THE WEBSITE :  https://dhaniverma.github.io/whether-app/
+##LINK TO THE WEBSITE :  https://dhaniverma.github.io/weather-app/
 
 ## 🛠️ Tech Stack
 - HTML
